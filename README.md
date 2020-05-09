@@ -11,7 +11,7 @@ email: 			     	saitozkaya@ gmail.com
 
 mob: 			      	90 537 283 7243
 
-mob               273 3 943 7071
+mob:               273 3 943 7071
                   
 HARDWARE:			  	PC
 
