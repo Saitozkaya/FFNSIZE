@@ -11,11 +11,11 @@ email: 			     	saitozkaya@ gmail.com
 
 mob: 			      	90 537 283 7243
 
-Mob               273 3 943 7071
+mob               273 3 943 7071
                   
 HARDWARE:			  	PC
 
-SOFWWARE:			  	WINDOWS, Microsoft Excel platform
+SOFWARE:			  	WINDOWS, Microsoft Excel platform
 
 PROG. LANGUAGE:		VBA
 
