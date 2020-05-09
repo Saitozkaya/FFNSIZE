@@ -11,7 +11,7 @@ email: 			     	saitozkaya@ gmail.com
 
 mob: 			      	90 537 283 7243
 
-                  273 3 943 7071
+Mob               273 3 943 7071
                   
 HARDWARE:			  	PC
 
@@ -27,6 +27,7 @@ TEMPLATE    			SFM, TRUNCATE, CONNECT, HULLX, AND HULLCOMP
 ****************************************************
 
 DESCRIPTION
+
 The main tool is an Excel macro package, FFNsize, to generate stochastic 2D fracture models; identify FFNs, and determine and tabulate attributes of all FFNs. A wide variety of approaches are utilized to generate DFN models. FFNsize uses the conventional method which is based on generation of random variables with selected probability distributions using Monte Carlo simulation for location, length and orientation  of each fracture The main modules of FFNsize are briefly are (i) Sfm: stochastic fracture modeling (SFM); (ii)Truncate: fracture truncation; (iii) Connect: Extraction of FFNs; (iv) Hullx: calculation of total fracture drainage surface and  area of convex hull around a FFN and (v) Hullcomp: tabulation of all  extracted FFN attributes. These tools are used in the same sequence as listed above. A SFM is created from subsurface fracture data as the first step. The second step is fracture truncation.  Truncated fractures are then input to Connect module, which extracts each and every FFN.  Extracted FFNs are transferred to Hullx module to calculate drainage area, convex hull volume and other related parameters, which are collected averaged and tabulated by the Hullcomp module. 
 
 
