@@ -66,7 +66,7 @@ Fracture connectivity, Connect is the main module of FFNsize toolkit. It extract
 This module, Hullx calculates the total length of fractures within a FFN and also the area of a convex hull enveloping the FFN. Calculation of total fracture length is straightforward. The convex hull is calculated following a modified form of Graham’s algorithm. The module also calculates matrix block size in x and y directions and fracture scan line density for the bundle. Input to Hullx is any one of the FFNs identified and listed by the Connect module. 
 
 
-Tabulation of FFN attributes
+5 Tabulation of FFN attributes
 
 The last module Hullcomp calls the Hullx module repeatedly for all extract FFNs by Connect module and extract attributes such as number of fractures and area of each FFN. The module also calculates the maximum and average values of these attributes, which constitute the basis for further statistical analysis.
 
